@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+RC4.py
+digital_signature.spec
+*.log
+*.tmp
+
+# Environment
+.env
+venv/
+ENV/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+*~
